@@ -1,0 +1,21 @@
+D=0	T=0
+D=0	T=1
+D=0	T=2
+D=0	T=3
+D=0	T=4
+D=0	T=5
+Passenger 0 stay at Changchun.
+D=0	T=6
+Passenger 0 stay at Changchun.
+D=0	T=7
+Passenger 0 stay at Changchun.
+Passenger 1 stay at Nanjing.
+D=0	T=8
+Passenger 0 stay at Changchun.
+Passenger 1 stay at Nanjing.
+D=0	T=9
+Passenger 0 stay at Changchun.
+Passenger 1 stay at Nanjing.
+D=0	T=10
+Passenger 0 stay at Changchun.
+Passenger 1 stay at Nanjing.
